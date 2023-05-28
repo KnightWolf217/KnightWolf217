@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Rupak Lingwal, aka KnightWolf.
-- 👀 I’m interested mostly in Web and Full Stack Development.
-- 🌱 I recently finished my Bachelor's Degree in Computer Science.
+- 👋 Hi, I’m Rupak, aka KnightWolf.
 - 📫 You can contact me via Email or LinkedIn.
 
